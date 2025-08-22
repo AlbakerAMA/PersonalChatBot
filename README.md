@@ -1,4 +1,4 @@
-# 🤖 Next.js AI Agent with Google Docs + GPT-OSS
+# 🤖 AI Agent with Google Docs + GPT-OSS
 
 A powerful AI chatbot that integrates with your Google Drive documents to provide intelligent, context-aware responses using OpenRouter's GPT models. Built with Next.js, this application can read and understand content from your Google Docs to answer questions and provide assistance.
 
@@ -35,7 +35,7 @@ A powerful AI chatbot that integrates with your Google Drive documents to provid
 
 ### 1. Clone & Install
 ```bash
-git clone <repository-url>
+git clone https://github.com/AlbakerAMA/PersonalChatBot.git
 cd PersonalChatBot
 npm install
 ```
